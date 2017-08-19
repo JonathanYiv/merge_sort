@@ -22,4 +22,4 @@ No particular thoughts.
 
 ## Post-Project Thoughts
 
-This project is currently incomplete.
+Implementing was about light to moderate difficulty.
